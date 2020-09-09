@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 //2020-9-8
 
-public class Main
+public class NumberGuesser
 {
     public static void main(String[] args) {
         System.out.println("This program will generate a number between 0 and 10, \nthen you can guess what it is");
